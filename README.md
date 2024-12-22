@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Lua involving unexpected behavior due to the unordered nature of the pairs iterator when traversing nested tables.  The `bug.lua` file showcases the issue, and `bugSolution.lua` provides a corrected version using a depth-first traversal approach.
